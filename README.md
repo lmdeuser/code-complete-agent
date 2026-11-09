@@ -60,4 +60,8 @@ The chapter checklists are operational adaptations, not official checklists from
 
 ## Source and Rights
 
-*Code Complete* is by Steve McConnell. These materials are an independent summary and operational interpretation. No license is granted for the original book, and no original book files are distributed here. Unless a license is added explicitly later, no open-source license is implied for this adaptation.
+*Code Complete* is by Steve McConnell. These materials are an independent summary and operational interpretation. No license is granted for the original book, and no original book files are distributed here.
+
+## License
+
+Original contributions to this project are licensed under the [MIT License](LICENSE), copyright (c) 2026 lmdeuser. This license covers only rights held by the project contributors; it does not grant rights to the original book or other third-party material.
